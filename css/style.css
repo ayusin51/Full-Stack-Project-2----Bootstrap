@@ -1,0 +1,33 @@
+.heading { 
+	text-align: right;
+}
+
+.font {
+  font-family: 'Spectral SC', serif;
+}
+
+h4 {
+	text-align: center;
+}
+
+h3 {
+	margin-top: 2px;
+}
+
+.logo {
+	margin-top: 2vh;
+	max-width: 15vh;
+}
+
+.center {
+	text-align: center;
+}
+
+p {
+	font-size: .8em;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
